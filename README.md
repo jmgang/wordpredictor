@@ -1,2 +1,3 @@
-# wordpredictor
-NLP Word Predictor using RNN and LSTM
+# NLP Word Predictor using RNN and LSTM
+
+@ April 2018
